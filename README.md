@@ -4,7 +4,7 @@
 
 <p>
   <a href="www.linkedin.com/in/belapferreira">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
+    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
   </a>
   
   <a href="https://wa.me/message/3GSCAS4UVDFAF1">
@@ -19,10 +19,10 @@
 ### Principais tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=white" />
-  <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=blue&labelColor=white" />
-  <img src="https://img.shields.io/badge/ReactNative-blue?style=flat&logo=react&logoColor=blue&labelColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=F24E1E&labelColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7D842?style=flat&logo=javascript&logoColor=F7D842&labelColor=white" />
+  <img src="https://img.shields.io/badge/React-3D6098?style=flat&logo=react&logoColor=3D6098&labelColor=white" />
+  <img src="https://img.shields.io/badge/ReactNative-3D6098?style=flat&logo=react&logoColor=3D6098&labelColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F04B4C?style=flat&logo=figma&logoColor=F04B4C&labelColor=white" />
 </p>
 
 
