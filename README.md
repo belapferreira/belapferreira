@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="www.linkedin.com/in/belapferreira">
+  <a href="https://www.linkedin.com/in/belapferreira">
     <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
   </a>
   
