@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" />
+  <img src="cover-corrected.png" />
 </p>
 
 <p>
