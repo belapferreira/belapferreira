@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=social&logo=visual-studio-code&logoColor=007ACC" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=F05032" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Github-181717?style=social&logo=github&logoColor=181717" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Figma-F04B4C?style=social&logo=figma&logoColor=F04B4C" />
 </p>
 
