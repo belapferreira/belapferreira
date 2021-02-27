@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
