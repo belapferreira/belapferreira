@@ -36,11 +36,11 @@
 
 ### Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belapferreira&hide=issues,contribs&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belapferreira&hide=issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
