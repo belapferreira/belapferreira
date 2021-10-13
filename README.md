@@ -7,10 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
   </a>
   
-  <a href="https://wa.me/message/3GSCAS4UVDFAF1">
-    <img src="https://img.shields.io/badge/Whatsapp-brightgreen?style=flat&logo=WhatsApp&logoColor=white&labelColor=brightgreen" />
-  </a>
-  
    <a href="mailto:isabelapenhaferreira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
