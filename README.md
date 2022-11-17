@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="cover-corrected.png" />
-</p>
+### Hi, I'm Bela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" >
+
+I'm a front end Software Engineer currently working most of time at [**Rocketseat**](https://www.rocketseat.com.br) and as a freelancer at [**SBDS**](https://sbds.ch/).
 
 <p>
   <a href="https://www.linkedin.com/in/belapferreira">
@@ -19,14 +19,14 @@
 ### Principais tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7D842?style=social&logo=javascript&logoColor=F7D842" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React%20Native-3D6098?style=social&logo=react&logoColor=3D6098" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=social&logo=styled-components&logoColor=DB7093" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=social&logo=visual-studio-code&logoColor=007ACC" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=social&logo=git&logoColor=F05032" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Github-181717?style=social&logo=github&logoColor=181717" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F04B4C?style=social&logo=figma&logoColor=F04B4C" />
+  <img src="https://img.shields.io/badge/Javascript-F7D842?style=flat&logo=javascript&logoColor=F7D842&color=555555" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-3D6098?style=flat&logo=react&logoColor=3D6098&color=555555" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React%20Native-3D6098?style=flat&logo=react&logoColor=3D6098&color=555555" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=DB7093&color=555555" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC&color=555555" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=F05032&color=555555" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=181717&color=555555" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F04B4C?style=flat&logo=figma&logoColor=F04B4C&color=555555" />
 </p>
 
 
