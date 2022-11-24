@@ -12,9 +12,10 @@ I'm front end Software Engineer currently working at [**Rocketseat**](https://ww
 📱 Front-end mobile with React Native  
 🔧 JavaScript  
 🛠 TypeScript  
+📥 Git / Github  
+💿 Hygraph  
 📟 Visual Studio Code  
 🖌 Figma  
-📥 Git / Github  
 🧧 And more!
 
 #### Contact
