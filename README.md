@@ -33,15 +33,19 @@ I'm front end Software Engineer currently working at [**Rocketseat**](https://ww
   ### Status
   
 <div align="center">
-   <img height="220px" alt=gitstats src="https://github-readme-stats.vercel.app/api?username=belapferreira&hide=issues,contribs&count_private=true&theme=dracula"/>
+   <img height="172px" alt=gitstats src="https://github-readme-stats.vercel.app/api?username=belapferreira&hide=issues,contribs&count_private=true&theme=dracula"/>
 </div>
 
 <br />
 
 <div align="center" style="display: flex">
-  <img height="220px" alt=gitstats src="https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_progress=true&theme=dracula"/>
-  
-  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact&theme=dracula"/>
+  <img height="172px" alt=gitstats src="https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_progress=true&theme=dracula"/>
+ </div>
+
+<br />
+
+<div align="center" style="display: flex">
+  <img height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact&theme=dracula"/>
 </div>
   
 <!--
