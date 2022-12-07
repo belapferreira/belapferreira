@@ -18,7 +18,7 @@ I'm front end Software Engineer currently working at [**Rocketseat**](https://ww
 🖌 Figma  
 🧧 And more!
 
-#### Contact
+#### How to reach me
 
 <p>
   <a href="https://www.linkedin.com/in/belapferreira">
@@ -29,19 +29,28 @@ I'm front end Software Engineer currently working at [**Rocketseat**](https://ww
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
 </>
-
-
-<!--
+  
   ### Status
+  
+<div align="center">
+   <img height="220px" alt=gitstats src="https://github-readme-stats.vercel.app/api?username=belapferreira&hide=issues,contribs&count_private=true&theme=dracula"/>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belapferreira&hide=issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" style="display: flex">
+  <img height="220px" alt=gitstats src="https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_progress=true&theme=dracula"/>
+  
+  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact&theme=dracula"/>
+</div>
+  
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belapferreira&hide=issues,contribs&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
 
 <!--
 **belapferreira/belapferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
