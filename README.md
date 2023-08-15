@@ -2,10 +2,6 @@
 
 I'm front end Software Engineer currently working at [**Rocketseat**](https://www.rocketseat.com.br) and as a freelancer at [**SBDS**](https://sbds.ch/).
 
-<p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=belapferreira" alt="visitor badge" />
-</p>
-
 #### Mainly current techs and tools
 
 💻 Front-end web with React / Next.JS  
@@ -20,7 +16,7 @@ I'm front end Software Engineer currently working at [**Rocketseat**](https://ww
 
 #### How to reach me
 
-<p>
+<div>
   <a href="https://www.linkedin.com/in/belapferreira">
     <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
   </a>
@@ -28,7 +24,7 @@ I'm front end Software Engineer currently working at [**Rocketseat**](https://ww
    <a href="mailto:isabelapenhaferreira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
   </a>
-</>
+</div>
   
   ### Status
   
@@ -41,8 +37,8 @@ I'm front end Software Engineer currently working at [**Rocketseat**](https://ww
 -->
 
 <div align="center" style="display: flex">
-  <img height="200px" alt=gitstats src="https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_progress=true&theme=dracula"/>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact&theme=dracula"/>
+  <img align="left" height="200px" alt=gitstats src="https://github-readme-stats.vercel.app/api/wakatime?username=belapferreira&hide_progress=true&theme=dracula"/>
+  <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belapferreira&langs_count=8&layout=compact&theme=dracula"/>
 </div>
   
 <!--
