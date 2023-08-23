@@ -1,6 +1,6 @@
 ### Hi, I'm Bela <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" >
 
-I'm front end Software Engineer currently working at [**Rocketseat**](https://www.rocketseat.com.br) and as a freelancer at [**SBDS**](https://sbds.ch/).
+I'm a front-end software engineer currently working at [**Rocketseat**](https://www.rocketseat.com.br) and I also contributed as a freelancer at [**SBDS**](https://sbds.ch/).
 
 #### Mainly current techs and tools
 
@@ -8,7 +8,7 @@ I'm front end Software Engineer currently working at [**Rocketseat**](https://ww
 📱 Front-end mobile with React Native  
 🔧 JavaScript  
 🛠 TypeScript  
-📥 Git / Github  
+📥 Git / GitHub  
 💿 Hygraph  
 📟 Visual Studio Code  
 🖌 Figma  
